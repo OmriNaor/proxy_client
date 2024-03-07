@@ -54,3 +54,14 @@ To compile and run the project, follow these steps:
 2. Compile the project using the provided command.
 3. Run the compiled program with a valid HTTP URL as an argument.
 
+For testing purposes, you can use the following HTTP URLs, which CProxy can handle due to its support for HTTP (not HTTPS):
+
+- [PDF widgets sample](http://www.pdf995.com/samples/widgets.pdf)
+- [Physics questions](http://www.csun.edu/science/ref/games/questions/97_phys.pdf)
+- [PDF995 website](http://www.pdf995.com/)
+- [HTTP Forever](http://httpforever.com/index.html)
+- [Joseph W Carrillo's website](http://www.josephwcarrillo.com/index.html)
+- [022 Israeli news site](http://www.022.co.il/welcome.html)
+- [HMPJ Hebrew site](http://www.hmpj.manhi.org.il/)
+
+Please note that these URLs are provided for testing and demonstration purposes only.
